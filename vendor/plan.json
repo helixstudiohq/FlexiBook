@@ -1,0 +1,740 @@
+[
+  {
+    "name": "next",
+    "version": "14.2.15",
+    "tarball": "https://registry.npmjs.org/next/-/next-14.2.15.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "react",
+    "version": "18.3.1",
+    "tarball": "https://registry.npmjs.org/react/-/react-18.3.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "react-dom",
+    "version": "18.3.1",
+    "tarball": "https://registry.npmjs.org/react-dom/-/react-dom-18.3.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@next/swc-win32-x64-msvc",
+    "version": "14.2.15",
+    "tarball": "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-14.2.15.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@supabase/supabase-js",
+    "version": "2.45.4",
+    "tarball": "https://registry.npmjs.org/@supabase/supabase-js/-/supabase-js-2.45.4.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "framer-motion",
+    "version": "11.11.7",
+    "tarball": "https://registry.npmjs.org/framer-motion/-/framer-motion-11.11.7.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "lucide-react",
+    "version": "0.446.0",
+    "tarball": "https://registry.npmjs.org/lucide-react/-/lucide-react-0.446.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "tailwindcss",
+    "version": "3.4.13",
+    "tarball": "https://registry.npmjs.org/tailwindcss/-/tailwindcss-3.4.13.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "postcss",
+    "version": "8.4.47",
+    "tarball": "https://registry.npmjs.org/postcss/-/postcss-8.4.47.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "autoprefixer",
+    "version": "10.4.20",
+    "tarball": "https://registry.npmjs.org/autoprefixer/-/autoprefixer-10.4.20.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "typescript",
+    "version": "5.6.3",
+    "tarball": "https://registry.npmjs.org/typescript/-/typescript-5.6.3.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@types/node",
+    "version": "20.16.11",
+    "tarball": "https://registry.npmjs.org/@types/node/-/node-20.16.11.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@types/react",
+    "version": "18.3.11",
+    "tarball": "https://registry.npmjs.org/@types/react/-/react-18.3.11.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@types/react-dom",
+    "version": "18.3.0",
+    "tarball": "https://registry.npmjs.org/@types/react-dom/-/react-dom-18.3.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "busboy",
+    "version": "1.6.0",
+    "tarball": "https://registry.npmjs.org/busboy/-/busboy-1.6.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "postcss",
+    "version": "8.4.31",
+    "tarball": "https://registry.npmjs.org/postcss/-/postcss-8.4.31.tgz",
+    "installDir": "node_modules\\next"
+  },
+  {
+    "name": "@next/env",
+    "version": "14.2.15",
+    "tarball": "https://registry.npmjs.org/@next/env/-/env-14.2.15.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "styled-jsx",
+    "version": "5.1.1",
+    "tarball": "https://registry.npmjs.org/styled-jsx/-/styled-jsx-5.1.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "graceful-fs",
+    "version": "4.2.11",
+    "tarball": "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.11.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@swc/helpers",
+    "version": "0.5.5",
+    "tarball": "https://registry.npmjs.org/@swc/helpers/-/helpers-0.5.5.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "caniuse-lite",
+    "version": "1.0.30001810",
+    "tarball": "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001810.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "loose-envify",
+    "version": "1.4.0",
+    "tarball": "https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "scheduler",
+    "version": "0.23.2",
+    "tarball": "https://registry.npmjs.org/scheduler/-/scheduler-0.23.2.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@supabase/auth-js",
+    "version": "2.65.0",
+    "tarball": "https://registry.npmjs.org/@supabase/auth-js/-/auth-js-2.65.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@supabase/node-fetch",
+    "version": "2.6.15",
+    "tarball": "https://registry.npmjs.org/@supabase/node-fetch/-/node-fetch-2.6.15.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@supabase/storage-js",
+    "version": "2.7.0",
+    "tarball": "https://registry.npmjs.org/@supabase/storage-js/-/storage-js-2.7.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@supabase/realtime-js",
+    "version": "2.10.2",
+    "tarball": "https://registry.npmjs.org/@supabase/realtime-js/-/realtime-js-2.10.2.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@supabase/functions-js",
+    "version": "2.4.1",
+    "tarball": "https://registry.npmjs.org/@supabase/functions-js/-/functions-js-2.4.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@supabase/postgrest-js",
+    "version": "1.16.1",
+    "tarball": "https://registry.npmjs.org/@supabase/postgrest-js/-/postgrest-js-1.16.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "tslib",
+    "version": "2.8.1",
+    "tarball": "https://registry.npmjs.org/tslib/-/tslib-2.8.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "arg",
+    "version": "5.0.2",
+    "tarball": "https://registry.npmjs.org/arg/-/arg-5.0.2.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "dlv",
+    "version": "1.1.3",
+    "tarball": "https://registry.npmjs.org/dlv/-/dlv-1.1.3.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "jiti",
+    "version": "1.21.7",
+    "tarball": "https://registry.npmjs.org/jiti/-/jiti-1.21.7.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "is-glob",
+    "version": "4.0.3",
+    "tarball": "https://registry.npmjs.org/is-glob/-/is-glob-4.0.3.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "resolve",
+    "version": "1.22.12",
+    "tarball": "https://registry.npmjs.org/resolve/-/resolve-1.22.12.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "sucrase",
+    "version": "3.35.1",
+    "tarball": "https://registry.npmjs.org/sucrase/-/sucrase-3.35.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "chokidar",
+    "version": "3.6.0",
+    "tarball": "https://registry.npmjs.org/chokidar/-/chokidar-3.6.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "fast-glob",
+    "version": "3.3.3",
+    "tarball": "https://registry.npmjs.org/fast-glob/-/fast-glob-3.3.3.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "lilconfig",
+    "version": "2.1.0",
+    "tarball": "https://registry.npmjs.org/lilconfig/-/lilconfig-2.1.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "didyoumean",
+    "version": "1.2.2",
+    "tarball": "https://registry.npmjs.org/didyoumean/-/didyoumean-1.2.2.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "micromatch",
+    "version": "4.0.8",
+    "tarball": "https://registry.npmjs.org/micromatch/-/micromatch-4.0.8.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "picocolors",
+    "version": "1.1.1",
+    "tarball": "https://registry.npmjs.org/picocolors/-/picocolors-1.1.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "postcss-js",
+    "version": "4.1.0",
+    "tarball": "https://registry.npmjs.org/postcss-js/-/postcss-js-4.1.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "glob-parent",
+    "version": "6.0.2",
+    "tarball": "https://registry.npmjs.org/glob-parent/-/glob-parent-6.0.2.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "object-hash",
+    "version": "3.0.0",
+    "tarball": "https://registry.npmjs.org/object-hash/-/object-hash-3.0.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "normalize-path",
+    "version": "3.0.0",
+    "tarball": "https://registry.npmjs.org/normalize-path/-/normalize-path-3.0.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "postcss-import",
+    "version": "15.1.0",
+    "tarball": "https://registry.npmjs.org/postcss-import/-/postcss-import-15.1.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "postcss-nested",
+    "version": "6.2.0",
+    "tarball": "https://registry.npmjs.org/postcss-nested/-/postcss-nested-6.2.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@alloc/quick-lru",
+    "version": "5.3.0",
+    "tarball": "https://registry.npmjs.org/@alloc/quick-lru/-/quick-lru-5.3.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "postcss-load-config",
+    "version": "4.0.2",
+    "tarball": "https://registry.npmjs.org/postcss-load-config/-/postcss-load-config-4.0.2.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "postcss-selector-parser",
+    "version": "6.1.4",
+    "tarball": "https://registry.npmjs.org/postcss-selector-parser/-/postcss-selector-parser-6.1.4.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "nanoid",
+    "version": "3.3.18",
+    "tarball": "https://registry.npmjs.org/nanoid/-/nanoid-3.3.18.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "source-map-js",
+    "version": "1.2.1",
+    "tarball": "https://registry.npmjs.org/source-map-js/-/source-map-js-1.2.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "fraction.js",
+    "version": "4.3.7",
+    "tarball": "https://registry.npmjs.org/fraction.js/-/fraction.js-4.3.7.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "browserslist",
+    "version": "4.28.9",
+    "tarball": "https://registry.npmjs.org/browserslist/-/browserslist-4.28.9.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "normalize-range",
+    "version": "0.1.2",
+    "tarball": "https://registry.npmjs.org/normalize-range/-/normalize-range-0.1.2.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "postcss-value-parser",
+    "version": "4.2.0",
+    "tarball": "https://registry.npmjs.org/postcss-value-parser/-/postcss-value-parser-4.2.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "undici-types",
+    "version": "6.19.8",
+    "tarball": "https://registry.npmjs.org/undici-types/-/undici-types-6.19.8.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "csstype",
+    "version": "3.2.3",
+    "tarball": "https://registry.npmjs.org/csstype/-/csstype-3.2.3.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@types/prop-types",
+    "version": "15.7.15",
+    "tarball": "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.15.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "streamsearch",
+    "version": "1.1.0",
+    "tarball": "https://registry.npmjs.org/streamsearch/-/streamsearch-1.1.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "client-only",
+    "version": "0.0.1",
+    "tarball": "https://registry.npmjs.org/client-only/-/client-only-0.0.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@swc/counter",
+    "version": "0.1.3",
+    "tarball": "https://registry.npmjs.org/@swc/counter/-/counter-0.1.3.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "js-tokens",
+    "version": "4.0.0",
+    "tarball": "https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "whatwg-url",
+    "version": "5.0.0",
+    "tarball": "https://registry.npmjs.org/whatwg-url/-/whatwg-url-5.0.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "ws",
+    "version": "8.21.3",
+    "tarball": "https://registry.npmjs.org/ws/-/ws-8.21.3.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@types/ws",
+    "version": "8.18.1",
+    "tarball": "https://registry.npmjs.org/@types/ws/-/ws-8.18.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@types/phoenix",
+    "version": "1.6.7",
+    "tarball": "https://registry.npmjs.org/@types/phoenix/-/phoenix-1.6.7.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "is-extglob",
+    "version": "2.1.1",
+    "tarball": "https://registry.npmjs.org/is-extglob/-/is-extglob-2.1.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "es-errors",
+    "version": "1.3.0",
+    "tarball": "https://registry.npmjs.org/es-errors/-/es-errors-1.3.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "path-parse",
+    "version": "1.0.7",
+    "tarball": "https://registry.npmjs.org/path-parse/-/path-parse-1.0.7.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "is-core-module",
+    "version": "2.16.2",
+    "tarball": "https://registry.npmjs.org/is-core-module/-/is-core-module-2.16.2.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "supports-preserve-symlinks-flag",
+    "version": "1.0.0",
+    "tarball": "https://registry.npmjs.org/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@jridgewell/gen-mapping",
+    "version": "0.3.13",
+    "tarball": "https://registry.npmjs.org/@jridgewell/gen-mapping/-/gen-mapping-0.3.13.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "commander",
+    "version": "4.1.1",
+    "tarball": "https://registry.npmjs.org/commander/-/commander-4.1.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "lines-and-columns",
+    "version": "1.2.4",
+    "tarball": "https://registry.npmjs.org/lines-and-columns/-/lines-and-columns-1.2.4.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "mz",
+    "version": "2.7.0",
+    "tarball": "https://registry.npmjs.org/mz/-/mz-2.7.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "pirates",
+    "version": "4.0.7",
+    "tarball": "https://registry.npmjs.org/pirates/-/pirates-4.0.7.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "tinyglobby",
+    "version": "0.2.17",
+    "tarball": "https://registry.npmjs.org/tinyglobby/-/tinyglobby-0.2.17.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "ts-interface-checker",
+    "version": "0.1.13",
+    "tarball": "https://registry.npmjs.org/ts-interface-checker/-/ts-interface-checker-0.1.13.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "braces",
+    "version": "3.0.3",
+    "tarball": "https://registry.npmjs.org/braces/-/braces-3.0.3.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "anymatch",
+    "version": "3.1.3",
+    "tarball": "https://registry.npmjs.org/anymatch/-/anymatch-3.1.3.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "readdirp",
+    "version": "3.6.0",
+    "tarball": "https://registry.npmjs.org/readdirp/-/readdirp-3.6.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "glob-parent",
+    "version": "5.1.2",
+    "tarball": "https://registry.npmjs.org/glob-parent/-/glob-parent-5.1.2.tgz",
+    "installDir": "node_modules\\chokidar"
+  },
+  {
+    "name": "is-binary-path",
+    "version": "2.1.0",
+    "tarball": "https://registry.npmjs.org/is-binary-path/-/is-binary-path-2.1.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@nodelib/fs.stat",
+    "version": "2.0.5",
+    "tarball": "https://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-2.0.5.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@nodelib/fs.walk",
+    "version": "1.2.8",
+    "tarball": "https://registry.npmjs.org/@nodelib/fs.walk/-/fs.walk-1.2.8.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "glob-parent",
+    "version": "5.1.2",
+    "tarball": "https://registry.npmjs.org/glob-parent/-/glob-parent-5.1.2.tgz",
+    "installDir": "node_modules\\fast-glob"
+  },
+  {
+    "name": "merge2",
+    "version": "1.4.1",
+    "tarball": "https://registry.npmjs.org/merge2/-/merge2-1.4.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "picomatch",
+    "version": "2.3.2",
+    "tarball": "https://registry.npmjs.org/picomatch/-/picomatch-2.3.2.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "camelcase-css",
+    "version": "2.0.1",
+    "tarball": "https://registry.npmjs.org/camelcase-css/-/camelcase-css-2.0.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "read-cache",
+    "version": "1.0.2",
+    "tarball": "https://registry.npmjs.org/read-cache/-/read-cache-1.0.2.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "yaml",
+    "version": "2.9.0",
+    "tarball": "https://registry.npmjs.org/yaml/-/yaml-2.9.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "lilconfig",
+    "version": "3.1.3",
+    "tarball": "https://registry.npmjs.org/lilconfig/-/lilconfig-3.1.3.tgz",
+    "installDir": "node_modules\\postcss-load-config"
+  },
+  {
+    "name": "cssesc",
+    "version": "3.0.0",
+    "tarball": "https://registry.npmjs.org/cssesc/-/cssesc-3.0.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "util-deprecate",
+    "version": "1.0.2",
+    "tarball": "https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "node-releases",
+    "version": "2.0.55",
+    "tarball": "https://registry.npmjs.org/node-releases/-/node-releases-2.0.55.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "electron-to-chromium",
+    "version": "1.5.425",
+    "tarball": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.5.425.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "update-browserslist-db",
+    "version": "1.3.2",
+    "tarball": "https://registry.npmjs.org/update-browserslist-db/-/update-browserslist-db-1.3.2.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "baseline-browser-mapping",
+    "version": "2.11.21",
+    "tarball": "https://registry.npmjs.org/baseline-browser-mapping/-/baseline-browser-mapping-2.11.21.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "tr46",
+    "version": "0.0.3",
+    "tarball": "https://registry.npmjs.org/tr46/-/tr46-0.0.3.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "webidl-conversions",
+    "version": "3.0.1",
+    "tarball": "https://registry.npmjs.org/webidl-conversions/-/webidl-conversions-3.0.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "hasown",
+    "version": "2.0.4",
+    "tarball": "https://registry.npmjs.org/hasown/-/hasown-2.0.4.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@jridgewell/trace-mapping",
+    "version": "0.3.31",
+    "tarball": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.31.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@jridgewell/sourcemap-codec",
+    "version": "1.6.0",
+    "tarball": "https://registry.npmjs.org/@jridgewell/sourcemap-codec/-/sourcemap-codec-1.6.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "any-promise",
+    "version": "1.3.0",
+    "tarball": "https://registry.npmjs.org/any-promise/-/any-promise-1.3.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "object-assign",
+    "version": "4.1.1",
+    "tarball": "https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "thenify-all",
+    "version": "1.6.0",
+    "tarball": "https://registry.npmjs.org/thenify-all/-/thenify-all-1.6.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "fdir",
+    "version": "6.5.0",
+    "tarball": "https://registry.npmjs.org/fdir/-/fdir-6.5.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "picomatch",
+    "version": "4.0.7",
+    "tarball": "https://registry.npmjs.org/picomatch/-/picomatch-4.0.7.tgz",
+    "installDir": "node_modules\\tinyglobby"
+  },
+  {
+    "name": "fill-range",
+    "version": "7.1.1",
+    "tarball": "https://registry.npmjs.org/fill-range/-/fill-range-7.1.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "binary-extensions",
+    "version": "2.3.0",
+    "tarball": "https://registry.npmjs.org/binary-extensions/-/binary-extensions-2.3.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "fastq",
+    "version": "1.20.3",
+    "tarball": "https://registry.npmjs.org/fastq/-/fastq-1.20.3.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@nodelib/fs.scandir",
+    "version": "2.1.5",
+    "tarball": "https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "escalade",
+    "version": "3.2.0",
+    "tarball": "https://registry.npmjs.org/escalade/-/escalade-3.2.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "function-bind",
+    "version": "1.1.2",
+    "tarball": "https://registry.npmjs.org/function-bind/-/function-bind-1.1.2.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "@jridgewell/resolve-uri",
+    "version": "3.1.2",
+    "tarball": "https://registry.npmjs.org/@jridgewell/resolve-uri/-/resolve-uri-3.1.2.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "thenify",
+    "version": "3.3.1",
+    "tarball": "https://registry.npmjs.org/thenify/-/thenify-3.3.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "to-regex-range",
+    "version": "5.0.1",
+    "tarball": "https://registry.npmjs.org/to-regex-range/-/to-regex-range-5.0.1.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "reusify",
+    "version": "1.1.0",
+    "tarball": "https://registry.npmjs.org/reusify/-/reusify-1.1.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "run-parallel",
+    "version": "1.2.0",
+    "tarball": "https://registry.npmjs.org/run-parallel/-/run-parallel-1.2.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "is-number",
+    "version": "7.0.0",
+    "tarball": "https://registry.npmjs.org/is-number/-/is-number-7.0.0.tgz",
+    "installDir": ""
+  },
+  {
+    "name": "queue-microtask",
+    "version": "1.2.3",
+    "tarball": "https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz",
+    "installDir": ""
+  }
+]
